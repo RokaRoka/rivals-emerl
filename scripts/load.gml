@@ -1,4 +1,4 @@
-sprite_change_offset("idle", 24, 82);
+sprite_change_offset("idle", 24, 82); //24, 82
 sprite_change_offset("hurt", 0, 0);
 sprite_change_offset("crouch", 0, 0);
 sprite_change_offset("walk", 32, 82);
@@ -23,7 +23,7 @@ sprite_change_offset("airdodge", 0, 0);
 sprite_change_offset("waveland", 0, 0);
 sprite_change_offset("tech", 0, 0);
 
-sprite_change_offset("jab", 0, 0);
+sprite_change_offset("jab", 24, 82);
 sprite_change_offset("dattack", 0, 0);
 sprite_change_offset("ftilt", 0, 0);
 sprite_change_offset("dtilt", 0, 0);

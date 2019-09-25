@@ -4,6 +4,6 @@ switch (state){
         image_index = floor(9 * state_timer/(9 * 3));
     break;
     case PS_DASH_STOP:
-        image_index = floor(image_number * state_timer/(image_number * 2));
+        image_index = floor(image_number * state_timer/(image_number * 4));
     break;
 }
