@@ -1,5 +1,6 @@
 sprite_change_offset("idle", 24, 82);
 sprite_change_offset("hurt", 0, 0);
+sprite_change_offset("bighurt", 34, 74);
 sprite_change_offset("crouch", 28, 76);
 sprite_change_offset("walk", 32, 82);
 sprite_change_offset("walkturn", 32, 82);
@@ -20,8 +21,8 @@ sprite_change_offset("parry", 0, 0);
 sprite_change_offset("roll_forward", 0, 0);
 sprite_change_offset("roll_backward", 0, 0);
 sprite_change_offset("airdodge", 30, 80);
-sprite_change_offset("waveland", 0, 0);
-sprite_change_offset("tech", 0, 0);
+sprite_change_offset("waveland", 28, 76);
+sprite_change_offset("tech", 38, 74);
 
 sprite_change_offset("jab", 24, 82);
 sprite_change_offset("dattack", 0, 0);
