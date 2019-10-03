@@ -17,7 +17,7 @@ sprite_change_offset("pratfall", 0, 0);
 sprite_change_offset("land", 28, 76);
 sprite_change_offset("landinglag", 0, 0);
 
-sprite_change_offset("parry", 0, 0);
+sprite_change_offset("parry", 23, 72);
 sprite_change_offset("roll_forward", 30, 70);
 sprite_change_offset("roll_backward", 30, 70);
 sprite_change_offset("airdodge", 30, 80);
@@ -40,7 +40,8 @@ sprite_change_offset("dstrong", 0, 0);
 sprite_change_offset("nspecial", 0, 0);
 sprite_change_offset("fspecial", 0, 0);
 sprite_change_offset("uspecial", 0, 0);
-sprite_change_offset("dspecial", 0, 0);
+sprite_change_offset("dspecial", 33, 78);
+sprite_change_offset("dspecial_air", 36, 78);
 sprite_change_offset("taunt", 0, 0);
 
 sprite_change_offset("plat", 0, 0);
