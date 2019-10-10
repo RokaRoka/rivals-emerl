@@ -17,7 +17,7 @@ sprite_change_offset("pratfall", 0, 0);
 sprite_change_offset("land", 28, 76);
 sprite_change_offset("landinglag", 0, 0);
 
-sprite_change_offset("parry", 0, 0);
+sprite_change_offset("parry", 24, 80);
 sprite_change_offset("roll_forward", 30, 70);
 sprite_change_offset("roll_backward", 30, 70);
 sprite_change_offset("airdodge", 30, 80);
@@ -26,9 +26,9 @@ sprite_change_offset("tech", 38, 74);
 
 sprite_change_offset("jab", 24, 80);
 sprite_change_offset("dattack", 0, 0);
-sprite_change_offset("ftilt", 0, 0);
-sprite_change_offset("dtilt", 0, 0);
-sprite_change_offset("utilt", 0, 0);
+sprite_change_offset("ftilt", 24, 80);
+sprite_change_offset("dtilt", 24, 80);
+sprite_change_offset("utilt", 24, 80);
 sprite_change_offset("nair", 0, 0);
 sprite_change_offset("fair", 0, 0);
 sprite_change_offset("bair", 0, 0);
