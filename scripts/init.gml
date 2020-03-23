@@ -87,12 +87,16 @@ roll_back_recovery_frames = 2;
 roll_forward_max = 9; //roll speed
 roll_backward_max = 9;
 
+//sfx
 land_sound = asset_get("sfx_land_med");
 landing_lag_sound = asset_get("sfx_land");
 waveland_sound = asset_get("sfx_waveland_zet");
 jump_sound = asset_get("sfx_jumpground");
 djump_sound = asset_get("sfx_jumpair");
 air_dodge_sound = asset_get("sfx_quick_dodge");
+
+//fx
+parry_fx = hit_fx_create(sprite_get("fxparry"), 30)
 
 //visual offsets for when you're in Ranno's bubble
 bubble_x = 0;
